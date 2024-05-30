@@ -1,0 +1,35 @@
+{
+  "name": "vouch",
+  "version": "1.0.0",
+  "description": "vouch p2p lending app",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Gale/vouch.git"
+  },
+  "keywords": [
+    "vouch",
+    "p2p",
+    "lending",
+    "loan",
+    "backend",
+    "API"
+  ],
+  "author": "Code-Singer, Josh, Solo-Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Gale/vouch/issues"
+  },
+  "homepage": "https://github.com/Code-Gale/vouch#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.2"
+  }
+}
