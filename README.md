@@ -1,5 +1,4 @@
 ## API REQUESTS
-Sure, I can provide you with a high-level overview of the tasks and endpoints that you might need to implement for the backend of your peer-to-peer lending application. Here's a breakdown:
 
 **Tasks:**
 
